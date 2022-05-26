@@ -1,0 +1,36 @@
+.main {
+    background-color: white;
+    width: 70%; 
+    margin-top: 10%; 
+    margin-left: 15%;
+    display: inline-block;
+}
+.left-column {
+    width: 50%;
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    margin-top: 50px;
+}
+.h1 {
+    font-size: 80px;
+    color: #279CEF;
+    margin-bottom: 0px;
+}
+.prgph {
+    font-size: 38px;
+    color: #5F5F5F;
+    font-weight: bold;
+    margin-top: 0px;
+    text-transform: uppercase;
+}
+.btn {
+    text-decoration: none;
+    border: 2px solid #279CEF;
+    border-radius: 30px;
+    padding: 15px 40px;
+    color: #279CEF;
+}
+.img1 {
+    width: 50%;
+    float: left;
+}
